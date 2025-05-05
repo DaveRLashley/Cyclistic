@@ -1,1 +1,1 @@
-This folder contains Cyclistic data visualizations of trends and patterns over time as well as examples of workbook Pivot Tables and and cleaned Excel spreadsheet with added columns for better data analysis. 
+This folder contains bar charts showing bike usage trends and patterns over time (hourly, daily, monthly) as well as examples of workbook Pivot Tables and cleaned Excel spreadsheet with added columns for better data analysis. 
