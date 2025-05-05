@@ -1,1 +1,3 @@
-This folder contains the Cyclistic data analysis report with accompaying Powerpoint presentation.
+This folder contains:
+- Cyclistic data analysis report
+- Powerpoint presentation.
