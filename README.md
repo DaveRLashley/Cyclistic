@@ -12,7 +12,7 @@ This report examines how Cyclistic’s annual members and casual riders use thei
 ## Key Findings
 - Although members make 1.7× more rides, casual riders enjoy significantly longer ride durations.
 - Usage patterns reveal that both groups peak around 5 PM and show distinct behaviors regarding station usage and day-of-week preferences. 
-- Line & Bar graphs were used to show trends and patterns ov er various time periods.
+- Line & Bar graphs were used to show trends and patterns over various time periods.
 
 ## Screenshots or Visuals
 [Visualizations Folder](./visualizations)
