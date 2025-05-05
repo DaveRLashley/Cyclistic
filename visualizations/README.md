@@ -1,1 +1,1 @@
-This folder contains Cyclistic data visualizations
+This folder contains Cyclistic data visualizations of trends and patterns over time as well as examples of workbook Pivot Tables and and cleaned Excel spreadsheet with added columns for better data analysis. 
