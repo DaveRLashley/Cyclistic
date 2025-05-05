@@ -7,7 +7,7 @@ A Data-Driven Marketing Strategy for Cyclistic to convert casual riders to annua
 - Tableau 
 
 ## Overview
-[This report examines how Cyclistic’s annual members and casual riders use their services. Millions of datasets from Amazon AWS (2024) for trips 1 minute or longer were analyzed.]
+This report examines how Cyclistic’s annual members and casual riders use their services. Millions of datasets from Amazon AWS (2024) for trips 1 minute or longer were analyzed.
 
 ## Key Findings
 - Although members make 1.7× more rides, casual riders enjoy significantly longer ride durations.
