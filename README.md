@@ -1,5 +1,5 @@
 # Cyclistic
-A Data-Driven Marketing Strategy for Cyclistic to convert casual riders to annual subscribers
+A Data-Driven Marketing Strategy for Cyclistic to convert casual riders to annual subscribers.
 
 ## Tools Used
 - SQL
