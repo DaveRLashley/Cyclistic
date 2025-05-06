@@ -1,9 +1,9 @@
 # Cyclistic
-A Data-Driven Marketing Strategy for Cyclistic to convert casual riders to annual subscribers.
+A marketing analysis for a bike-share company using SQL and Excel to identify ways to convert casual users into annual subscribers.
 
 ## Tools Used
-- SQL
-- Excel / BigQuery
+- SQL / BigQuery
+- Excel
 - Tableau 
 
 ## Overview
