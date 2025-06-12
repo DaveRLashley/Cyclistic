@@ -16,7 +16,7 @@ The Director of Marketing at Cyclistic believes the company’s future success d
 
 My analysis revealed that while members take significantly more trips, **casual riders use the service for much longer durations on average, especially on weekends.** This suggests casual riders use the bikes for leisure and exploration, presenting a key opportunity for targeted membership campaigns focused on weekend passes or leisure-based perks.
 
-![Ride Duration by User Type](./visualizations/Peak Ride Day.png)
+![Ride Duration by User Type](./visualizations/Peak-Ride-Day.png)
 
 ---
 
